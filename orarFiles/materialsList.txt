@@ -1,13 +1,22 @@
-4
-Item number 1
-This is a test item to demonstrate the program's database. This will open Google
-https://google.com
-Item number 2
-This will open DuckDuckGo
-https://duckduckgo.com
-Item number 3 : Dublicate of 1
-This is a test item to demonstrate the program's database. This will open Google
-https://google.com
-Item number 4 : Dublicate of 2
-This will open DuckDuckGo
-https://duckduckgo.com
+7
+Manual profesor: Upstream Proficiency C2
+PDF cu manualul profesorului la engleza. Contine raspunsuri la toate exercitiile.
+https://www.expresspublishing.co.uk/assets/microsites/ro/pdfs/UPSprofTS_full_book.pdf
+Manual profesor: Connexions 3
+Manualul profesorului cu raspunsuri la toate exercitiile pe Scribd.
+https://www.scribd.com/document/368280115/Rezolvari-Connexions-3
+Formule algebra
+PDF cu diferite formule la algebra
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/form1.pdf
+Formule trigonometrie
+PDF cu diverse formule la trigonometrie
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/trigonometrie.pdf
+01.Elemente_teoretice.pdf
+Fisa trimisa de Tiu
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/01.Elemente_teoretice.pdf
+Harta cu unitati de relief in Europa
+Aceasta harta NU este facuta de Tiu. Folositi-o la propriul risc.
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/2.1. Unitati relief europa.png
+Harta cu tarmurile Europei
+Aceasta harta NU este facuta de Tiu. Folositi-o la propriul risc.
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/3. Tarmurile Europei.png
