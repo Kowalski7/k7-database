@@ -1,4 +1,4 @@
-7
+10
 Manual profesor: Upstream Proficiency C2
 PDF cu manualul profesorului la engleza. Contine raspunsuri la toate exercitiile.
 https://www.expresspublishing.co.uk/assets/microsites/ro/pdfs/UPSprofTS_full_book.pdf
@@ -14,6 +14,15 @@ https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materia
 01.Elemente_teoretice.pdf
 Fisa trimisa de Tiu
 https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/01.Elemente_teoretice.pdf
+02.ASEZARE_RELIEF.pdf
+Fisa trimisa de Tiu in 29.10.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/02.ASEZARE_RELIEF.pdf
+04.RELIEFUL_ROMANIEI_tabel.pdf
+Fisa trimisa de Tiu in 29.10.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/04.RELIEFUL_ROMANIEI_tabel.pdf
+06.RELIEFUL_EUROPEI_tabel.pdf
+Fisa trimisa de Tiu in 29.10.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/06.RELIEFUL_EUROPEI_tabel.pdf
 Harta cu unitati de relief in Europa
 Aceasta harta NU este facuta de Tiu. Folositi-o la propriul risc.
 https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/2.1. Unitati relief europa.png
