@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materia
 Formule trigonometrie
 PDF cu diverse formule la trigonometrie
 https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/trigonometrie.pdf
-Formule derivate & integrale
-Tabel cu toate formulele de la derivate si integrale
+Formule derivate & integrale nedefinite
+Tabel cu toate formulele de la derivate si integrale nedefinite
 https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/TABEL - Derivate si integrale.pdf
 01.Elemente_teoretice.pdf
 Fisa trimisa de Tiu
