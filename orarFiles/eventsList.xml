@@ -3,18 +3,21 @@
 	<event type="test" name="Test Biologie" day="19" month="11">Test la biologie. 
 		Materia pentru test (la cei care nu dau bac-ul/teza din bio) incepe de la "Functiile materialului genetic".
 	</event>
-	<event type="teza" name="Teza informatica: Teorie" day="26" month="11">Teza la informatica se va desfasura in doua parti.
+	<event type="teza" name="Teza Informatica: Teorie" day="26" month="11">Teza la informatica se va desfasura in doua parti.
 		Partea teoretica va avea loc in scris, si probabil va fi desfasura in sala 0.2.
 		(Mai multe informatii vor fii adaugate pe parcurs)
 	</event>
 	<event type="teza" name="Teza Chimie" day="27" month="11">Teza chimie. 
-		V-om pune niste note!
+		Vom pune niste note!
 	</event>
-	<event type="teza" name="Teza la informatica: Practica" day="29" month="11">Teza la informatica se va desfasura in doua parti.
+	<event type="teza" name="Teza Informatica: Practica" day="29" month="11">Teza la informatica se va desfasura in doua parti.
 		Partea practica consta in crearea unei baze de date si relatiile dintre ele. De asemenea, va fi probabil necesara folosirea SQL.
 		(Mai multe informatii vor fii adaugate pe parcurs)
 	</event>
 	<event type="teza" name="Teza Mate" day="2" month="12">Teza la mate. 
 		Materia necesara este inca necunoscuta.
+	</event>
+	<event type="teza" name="Teza Engleza" day="5" month="12">Teza la engleza. 
+		Why should I care?
 	</event>
 </events>
