@@ -1,4 +1,4 @@
-10
+11
 Manual profesor: Upstream Proficiency C2
 PDF cu manualul profesorului la engleza. Contine raspunsuri la toate exercitiile.
 https://www.expresspublishing.co.uk/assets/microsites/ro/pdfs/UPSprofTS_full_book.pdf
@@ -11,6 +11,9 @@ https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materia
 Formule trigonometrie
 PDF cu diverse formule la trigonometrie
 https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/trigonometrie.pdf
+Formule derivate & integrale
+Tabel cu toate formulele de la derivate si integrale
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/TABEL - Derivate si integrale.pdf
 01.Elemente_teoretice.pdf
 Fisa trimisa de Tiu
 https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/01.Elemente_teoretice.pdf
