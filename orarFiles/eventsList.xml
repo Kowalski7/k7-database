@@ -17,7 +17,7 @@
 	<event type="test" name="Test biologie" day="19" month="11">Test la biologie. 
 		Materia pentru test (la cei care nu dau bac-ul/teza din bio) incepe de la "Functiile materialului genetic".
 	</event>
-	<event type="teza" name="Teza Informatica: Teorie" day="26" month="11">Teza la informatica se va desfasura in doua parti.
+	<event type="teza" name="Teza Informatica: Teorie" day="25" month="11">Teza la informatica se va desfasura in doua parti.
 		Partea teoretica va avea loc in scris, si probabil va fi desfasura in sala 0.2.
 		(Mai multe informatii vor fii adaugate pe parcurs)
 	</event>
