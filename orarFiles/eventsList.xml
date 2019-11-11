@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <events>
-    <event type="test" name="Test romana" day="14" month="11">Test la romana. 
+	<event type="test" name="Test fulger la mate" day="12" month="11">Test fulger la mate. 
+		Din formulele de la integrale.
+	</event>
+	<event type="test" name="Test romana" day="14" month="11">Test la romana. 
 		Din:
         - Lucian Blaga ("Eu nu strivesc corola...")
         - Tudor Arghezi ("Testament", "Flori de mucigai")
-    </event>
-    <event type="test" name="Test Informatica" day="15" month="11">Test la informatica. 
+	</event>
+	<event type="test" name="Test informatica" day="15" month="11">Test la informatica. 
 		Va fi din baze de date.
-    </event>
-    <event type="test" name="Test matematica" day="18" month="11">Test la matematica. 
+	</event>
+	<event type="test" name="Test matematica" day="18" month="11">Test la matematica. 
 		Din schimbare de variabile.
-    </event>
-	<event type="test" name="Test Biologie" day="19" month="11">Test la biologie. 
+	</event>
+	<event type="test" name="Test biologie" day="19" month="11">Test la biologie. 
 		Materia pentru test (la cei care nu dau bac-ul/teza din bio) incepe de la "Functiile materialului genetic".
 	</event>
 	<event type="teza" name="Teza Informatica: Teorie" day="26" month="11">Teza la informatica se va desfasura in doua parti.
