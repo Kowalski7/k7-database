@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <assignments>
 	<assignment subject="tester 1" name="Past test assignment 1" day="8" month="11">This is a past assignment.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 2" name="Past test assignment 2" day="9" month="11">This is another past assignment.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 3" name="Today test assignment 1" day="11" month="11">This happens today.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 4" name="Today test assignment 2" day="11" month="11">This also happens today.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 5" name="This month test assignment 1" day="25" month="11">This happens this month.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 6" name="This month test assignment 2" day="26" month="11">This also happens this month.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 7" name="Next month test assignment 1" day="23" month="12">This happens next month.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 	<assignment subject="tester 8" name="Next month test assignment 2" day="25" month="12">This also happens next month.
+	This is a new line.
+	
+	Another new line with a blank one above.
 	</assignment>
 </assignments>
