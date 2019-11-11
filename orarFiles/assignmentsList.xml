@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <assignments>
-	<assignment subject="informatica" name="Scrisoare de motivatie" day="8" month="11">De facut o scrisoare de motivatie + o prezentare PowerPoint despre etapele unei cariere de succes.
-	Aceste doua fisiere se trimit la adresa orainfositic@gmail.com
-	
-	scrisoare de motivatie = scrisoare de aplicare la un loc de munca sau facultate
+	<assignment subject="tester 1" name="Past test assignment 1" day="8" month="11">This is a past assignment.
 	</assignment>
-	<assignment subject="chimie" name="Experiment indicator varza rosie" day="13" month="11">Preparati acasa un indicator din varza rosie. 
-		Apa in care a fiert varza va fi folosita pentru indicarea pH-ului diferitor substante.
+	<assignment subject="tester 2" name="Past test assignment 2" day="9" month="11">This is another past assignment.
+	</assignment>
+	<assignment subject="tester 3" name="Today test assignment 1" day="11" month="11">This happens today.
+	</assignment>
+	<assignment subject="tester 4" name="Today test assignment 2" day="11" month="11">This also happens today.
+	</assignment>
+	<assignment subject="tester 5" name="This month test assignment 1" day="25" month="11">This happens this month.
+	</assignment>
+	<assignment subject="tester 6" name="This month test assignment 2" day="26" month="11">This also happens this month.
+	</assignment>
+	<assignment subject="tester 7" name="Next month test assignment 1" day="23" month="12">This happens next month.
+	</assignment>
+	<assignment subject="tester 8" name="Next month test assignment 2" day="25" month="12">This also happens next month.
 	</assignment>
 </assignments>
