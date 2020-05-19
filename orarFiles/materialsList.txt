@@ -1,0 +1,40 @@
+13
+Manual profesor: Upstream Proficiency C2
+PDF cu manualul profesorului la engleza. Contine raspunsuri la toate exercitiile.
+https://www.expresspublishing.co.uk/assets/microsites/ro/pdfs/UPSprofTS_full_book.pdf
+Manual profesor: Connexions 3
+Manualul profesorului la franceza cu raspunsuri la toate exercitiile pe Scribd.
+https://www.scribd.com/document/368280115/Rezolvari-Connexions-3
+Formule BAC - Mate M1
+Pachet complet de formule la matematica pentru bacalaureat M1
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/Formule BAC - Mate M1.zip
+Formule algebra
+PDF cu diferite formule la algebra
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/form1.pdf
+Formule trigonometrie
+PDF cu diverse formule la trigonometrie
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/trigonometrie.pdf
+Formule derivate si integrale nedefinite
+Tabel cu toate formulele de la derivate si de la integralele nedefinite
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/TABEL - Derivate si integrale.pdf
+01.Elemente_teoretice.pdf
+Fisa trimisa de Tiu
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/01.Elemente_teoretice.pdf
+02.ASEZARE_RELIEF.pdf
+Fisa trimisa de Tiu in 29.10.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/02.ASEZARE_RELIEF.pdf
+04.RELIEFUL_ROMANIEI_tabel.pdf
+Fisa trimisa de Tiu in 29.10.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/04.RELIEFUL_ROMANIEI_tabel.pdf
+06.RELIEFUL_EUROPEI_tabel.pdf
+Fisa trimisa de Tiu in 29.10.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/06.RELIEFUL_EUROPEI_tabel.pdf
+07.CLIMA-SOLURI.pdf
+Fisa trimisa de Tiu in 20.11.2019
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/07.CLIMA-SOLURI.pdf
+Harta cu unitati de relief in Europa
+Aceasta harta NU este facuta de Tiu. Folositi-o la propriul risc.
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/2.1. Unitati relief europa.png
+Harta cu tarmurile Europei
+Aceasta harta NU este facuta de Tiu. Folositi-o la propriul risc.
+https://raw.githubusercontent.com/Kowalski7/k7-database/master/orarFiles/materials/3. Tarmurile Europei.png
